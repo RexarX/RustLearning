@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "fibonacci",
+    "guessing-game", 
+    "sandbox",
+    "temperature-converter"
+]
