@@ -24,7 +24,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "guessing-game"
+name = "guessing_game"
 version = "0.1.0"
 dependencies = [
  "rand",
@@ -94,14 +94,18 @@ dependencies = [
 ]
 
 [[package]]
+name = "rpg_game"
+version = "0.1.0"
+
+[[package]]
 name = "sandbox"
 version = "0.1.0"
 
 [[package]]
 name = "syn"
-version = "2.0.103"
+version = "2.0.104"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "e4307e30089d6fd6aff212f2da3a1f9e32f3223b1f010fb09b7c95f90f3ca1e8"
+checksum = "17b6f705963418cdb9927482fa304bc562ece2fdd4f616084c50b7023b435a40"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -109,7 +113,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "temperature-converter"
+name = "temperature_converter"
 version = "0.1.0"
 
 [[package]]

@@ -10,6 +10,7 @@ fn main() {
     let mut guess = String::new();
     loop {
         println!("Please input your guess.");
+        guess.clear();
         io::stdin()
             .read_line(&mut guess)
             .expect("Failed to read guess");

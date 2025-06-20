@@ -1,7 +1,9 @@
 [workspace]
+resolver = "3"
 members = [
     "fibonacci",
-    "guessing-game", 
+    "rpg_game",
     "sandbox",
-    "temperature-converter"
+    "guessing_game",
+    "temperature_converter"
 ]
